@@ -10,10 +10,42 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Olga Ktytor
 
 ```
-Please write your explanation here...
+Stages at which sampling is occurring in the model:
+
+Initial Infection Sampling:
+
+Function used: np.random.choice
+Sample Size: 1000 individuals in total, split between weddings and brunches.
+Sampling Frame: All individuals attending events constitute the sampling frame.
+Underlying Distributions: Uses a uniform random distribution (np.random.choice) to determine which individuals get infected based on ATTACK_RATE.
+Relation to the Blog Post: This stage relates to the blog post by simulating how infections are initially spread across weddings and brunches.
+
+Primary Contact Tracing Sampling:
+
+Procedure: Infected individuals are subjected to primary contact tracing, where each has a probability (TRACE_SUCCESS) of being traced back to the event they attended.
+Functions Used: np.random.rand to generate random numbers to decide tracing outcomes.
+Sample Size: Based on the number of infected individuals.
+Sampling Frame: Individuals who are infected
+Underlying Distributions: Uses a uniform random distribution (np.random.rand) to decide if an infected individual is successfully traced (TRACE_SUCCESS probability).
+Relation to the Blog Post: This stage reflects the imperfect nature of primary contact tracing, where not all infections are successfully traced back to their source event.
+
+Secondary Contact Tracing Sampling:
+
+Functions Used: value_counts() and indexing are used to count the number of infections traced to each event and to trigger secondary tracing.
+Sample Size: Events with at least 2 traced individuals.
+Sampling Frame: Events and their associated infections.
+Underlying Distributions: No explicit distribution involved here, but rather a threshold-based logic to decide which events trigger secondary tracing.
+Relation to the Blog Post: It demonstrates how secondary tracing can significantly impact the attribution of infections to specific events, potentially leading to an overrepresentation of certain events (like weddings) in reported cases, as discussed in the blog post.
+
+No, the code doesn’t reproduce the graphs from the original blog post.
+
+After modifying the number of repetitions and running the script multiple times, the code does not reproduce the graphs from the original blog post.
+
+Setting the random seed (np.random.seed(42)) ensures reproducibility of results across multiple runs.
+
 
 ```
 
