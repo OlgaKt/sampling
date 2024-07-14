@@ -16,30 +16,63 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
+
 ```
-write your answer here...
+The purpose of the survey is to investigate the reasons behind the high turnover rate among entry- and lower-level positions in our tech company. The goal is to identify the factors contributing to employee dissatisfaction and to see what improvements can be made to increase employee satisfaction rate.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: employees holding entry- and lower-level positions within.
+Sampling frame: all current employees in entry- and lower-level positions, as listed in the company's human resources records
+Sampling units: individual employees within the specified entry- and lower-level positions
+Observational unit: individual employees who respond to the survey
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How long have you been employed at our company?
+- Less than 6 months
+- 6 months to 1 year
+- 1 to 2 years
+- More than 2 years
+
+2. On a scale of 1 to 5, how satisfied are you with your current role?
+1 (Very Dissatisfied) - 5 (Very Satisfied)
+
+3. To what extent do you feel supported by your immediate supervisor or manager in your day-to-day tasks and career development?
+
+- Not supported at all
+- Minimally supported
+- Somewhat supported
+- Very supported
+- Fully supported
+
+4. What factors, if any, contribute to your dissatisfaction or frustration at work?
+
+5. How would you rate your overall experience working in the company?
+- Excellent
+- Good
+- Fair
+- Poor
+
+5. Have you encountered any challenges related to work-life balance in your current role? If yes, please describe.
+
+6. How satisfied are you with the opportunities for professional development and growth provided by the company?
+
+- Very Dissatisfied
+- Dissatisfied
+- Neutral
+- Satisfied
+- Very Satisfied
+
+7. What changes or improvements would you suggest to enhance employee satisfaction and retention?
+
+8. Are there any additional comments or feedback you would like to provide regarding your experience working at our company?
+
 ```
 
 ## Rubric
