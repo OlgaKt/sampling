@@ -16,30 +16,80 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
+
 ```
-write your answer here...
+The purpose of the survey is to investigate the reasons behind the high turnover rate among entry- and lower-level positions in our tech company. The goal is to identify the factors contributing to employee dissatisfaction and to see what improvements can be made to increase employee satisfaction rate.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: employees holding entry- and lower-level positions within.
+Sampling frame: all current employees in entry- and lower-level positions, as listed in the company's human resources records
+Sampling units: individual employees within the specified entry- and lower-level positions
+Observational unit: individual employees who respond to the survey
+
+I will use a stratified random sampling approach, where employees will be grouped into strata based on departments or teams. Next, a random sample from each stratum will be selected to ensure representation across different areas of the company.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How long have you been employed at our company?
+- Less than 6 months
+- 6 months to 1 year
+- 1 to 2 years
+- More than 2 years
+
+2. On a scale of 1 to 5, how satisfied are you with your current role?
+1 (Very Dissatisfied) - 5 (Very Satisfied)
+
+3. To what extent do you feel supported by your immediate supervisor or manager in your day-to-day tasks and career development?
+
+- Not supported at all
+- Minimally supported
+- Somewhat supported
+- Very supported
+- Fully supported
+
+4. Do you feel that your contributions at the company are recognized and valued?
+
+- Yes, always
+- Yes, sometimes
+- No, rarely
+- No, never
+
+5. How would you rate your overall experience working in the company?
+- Excellent
+- Good
+- Fair
+- Poor
+
+5. Have you considered leaving the company in the past 6 months?
+
+- Yes
+- No
+
+6. How satisfied are you with the opportunities for professional development and growth provided by the company?
+
+- Very Dissatisfied
+- Dissatisfied
+- Neutral
+- Satisfied
+- Very Satisfied
+
+7. What changes or improvements do you think could be made to enhance employee satisfaction and reduce turnover within the company? (Select all that apply)
+
+- Increase salary and benefits
+- Provide more opportunities for career advancement
+- Improve work-life balance initiatives
+- Enhance training and professional development programs
+- Foster a more inclusive and supportive workplace culture
+
+8. Are there any additional comments or feedback you would like to provide regarding your experience working at our company?
+
 ```
 
 ## Rubric
