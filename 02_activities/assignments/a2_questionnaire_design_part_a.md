@@ -30,6 +30,9 @@ Target population: employees holding entry- and lower-level positions within.
 Sampling frame: all current employees in entry- and lower-level positions, as listed in the company's human resources records
 Sampling units: individual employees within the specified entry- and lower-level positions
 Observational unit: individual employees who respond to the survey
+
+I will use a stratified random sampling approach, where employees will be grouped into strata based on departments or teams. Next, a random sample from each stratum will be selected to ensure representation across different areas of the company.
+
 ```
 
 Your 5-10 question survey:
@@ -51,7 +54,12 @@ Your 5-10 question survey:
 - Very supported
 - Fully supported
 
-4. What factors, if any, contribute to your dissatisfaction or frustration at work?
+4. Do you feel that your contributions at the company are recognized and valued?
+
+- Yes, always
+- Yes, sometimes
+- No, rarely
+- No, never
 
 5. How would you rate your overall experience working in the company?
 - Excellent
@@ -59,7 +67,10 @@ Your 5-10 question survey:
 - Fair
 - Poor
 
-5. Have you encountered any challenges related to work-life balance in your current role? If yes, please describe.
+5. Have you considered leaving the company in the past 6 months?
+
+- Yes
+- No
 
 6. How satisfied are you with the opportunities for professional development and growth provided by the company?
 
@@ -69,7 +80,13 @@ Your 5-10 question survey:
 - Satisfied
 - Very Satisfied
 
-7. What changes or improvements would you suggest to enhance employee satisfaction and retention?
+7. What changes or improvements do you think could be made to enhance employee satisfaction and reduce turnover within the company? (Select all that apply)
+
+- Increase salary and benefits
+- Provide more opportunities for career advancement
+- Improve work-life balance initiatives
+- Enhance training and professional development programs
+- Foster a more inclusive and supportive workplace culture
 
 8. Are there any additional comments or feedback you would like to provide regarding your experience working at our company?
 
