@@ -63,7 +63,7 @@
 - Enhance training and professional development programs
 - Foster a more inclusive and supportive workplace culture
 
-9. If you have considered leaving, what were the primary reasons for this consideration? (Check all that apply)
+9) If you have considered leaving, what were the primary reasons for this consideration? (Check all that apply)
 
 - Better job opportunities elsewhere
 - Dissatisfaction with current role
@@ -72,7 +72,7 @@
 - Work-life balance concerns
 - Other (please specify)
 
-8. Are there any additional comments or feedback you would like to provide regarding your experience working at our company?
+10) Are there any additional comments or feedback you would like to provide regarding your experience working at our company?
    
     ```
 
