@@ -17,6 +17,7 @@
 
     ```
 The purpose of the survey could potentially be fulfilled through an observational study, but it would have limitations compared to a survey. We could observe and document turnover rates, employee behaviors, and organizational practices without directly intervening or asking employees for their perceptions and opinions. And while such a study could complement a survey by providing objective data on turnover rates and observable behaviors, a survey is more essential for HR to understand the subjective experiences and perceptions of employees, which are critical for designing effective retention strategies and improving overall employee satisfaction.
+
     ```
 
 ## Why am I doing this assignment?
