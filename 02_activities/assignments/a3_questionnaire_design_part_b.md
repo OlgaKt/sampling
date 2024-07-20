@@ -4,7 +4,7 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    I expect the sample to be representative of the target population. The use of a stratified random sampling strategy enhances representativeness by ensuring that employees from various departments are included proportionally. This reduces bias that could arise from sampling only from a single department. Although, the representativeness will also depend on factors like response rate and the accuracy of the sampling frame.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
@@ -16,7 +16,7 @@
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+The purpose of the survey could potentially be fulfilled through an observational study, but it would have limitations compared to a survey. We could observe and document turnover rates, employee behaviors, and organizational practices without directly intervening or asking employees for their perceptions and opinions. And while such a study could complement a survey by providing objective data on turnover rates and observable behaviors, a survey is more essential for HR to understand the subjective experiences and perceptions of employees, which are critical for designing effective retention strategies and improving overall employee satisfaction.
     ```
 
 ## Why am I doing this assignment?
