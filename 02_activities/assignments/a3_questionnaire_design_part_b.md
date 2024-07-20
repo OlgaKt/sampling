@@ -12,16 +12,16 @@
     ```
     My original survey included many open-ended questions, and I amended them so that the survey analysis process would be easier. I also added additional questions to better understand why the turnover is happening, and what changes could be done to improve employee satisfaction.
 
-1. How long have you been employed at our company?
+1) How long have you been employed at our company?
 - Less than 6 months
 - 6 months to 1 year
 - 1 to 2 years
 - More than 2 years
 
-2. On a scale of 1 to 5, how satisfied are you with your current role?
+2) On a scale of 1 to 5, how satisfied are you with your current role?
 1 (Very Dissatisfied) - 5 (Very Satisfied)
 
-3. To what extent do you feel supported by your immediate supervisor or manager in your day-to-day tasks and career development?
+3) To what extent do you feel supported by your immediate supervisor or manager in your day-to-day tasks and career development?
 
 - Not supported at all
 - Minimally supported
@@ -29,20 +29,20 @@
 - Very supported
 - Fully supported
 
-4. Do you feel that your contributions at the company are recognized and valued?
+4) Do you feel that your contributions at the company are recognized and valued?
 
 - Yes, always
 - Yes, sometimes
 - No, rarely
 - No, never
 
-5. How would you rate your overall experience working in the company?
+5) How would you rate your overall experience working in the company?
 - Excellent
 - Good
 - Fair
 - Poor
 
-6. How satisfied are you with the opportunities for professional development and growth provided by the company?
+6) How satisfied are you with the opportunities for professional development and growth provided by the company?
 
 - Very Dissatisfied
 - Dissatisfied
@@ -50,12 +50,12 @@
 - Satisfied
 - Very Satisfied
 
-7. Have you considered leaving the company in the past 6 months?
+7) Have you considered leaving the company in the past 6 months?
 
 - Yes
 - No
 
-8. What changes or improvements do you think could be made to enhance employee satisfaction and reduce turnover within the company? (Select all that apply)
+8) What changes or improvements do you think could be made to enhance employee satisfaction and reduce turnover within the company? (Select all that apply)
 
 - Increase salary and benefits
 - Provide more opportunities for career advancement
@@ -73,12 +73,14 @@
 - Other (please specify)
 
 8. Are there any additional comments or feedback you would like to provide regarding your experience working at our company?
+   
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
 The purpose of the survey could potentially be fulfilled through an observational study, but it would have limitations compared to a survey. We could observe and document turnover rates, employee behaviors, and organizational practices without directly intervening or asking employees for their perceptions and opinions. And while such a study could complement a survey by providing objective data on turnover rates and observable behaviors, a survey is more essential for HR to understand the subjective experiences and perceptions of employees, which are critical for designing effective retention strategies and improving overall employee satisfaction.
+
     ```
 
 ## Why am I doing this assignment?
