@@ -4,19 +4,83 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    I expect the sample to be representative of the target population. The use of a stratified random sampling strategy enhances representativeness by ensuring that employees from various departments are included proportionally. This reduces bias that could arise from sampling only from a single department. Although, the representativeness will also depend on factors like response rate and the accuracy of the sampling frame.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    My original survey included many open-ended questions, and I amended them so that the survey analysis process would be easier. I also added additional questions to better understand why the turnover is happening, and what changes could be done to improve employee satisfaction.
+
+1) How long have you been employed at our company?
+- Less than 6 months
+- 6 months to 1 year
+- 1 to 2 years
+- More than 2 years
+
+2) On a scale of 1 to 5, how satisfied are you with your current role?
+1 (Very Dissatisfied) - 5 (Very Satisfied)
+
+3) To what extent do you feel supported by your immediate supervisor or manager in your day-to-day tasks and career development?
+
+- Not supported at all
+- Minimally supported
+- Somewhat supported
+- Very supported
+- Fully supported
+
+4) Do you feel that your contributions at the company are recognized and valued?
+
+- Yes, always
+- Yes, sometimes
+- No, rarely
+- No, never
+
+5) How would you rate your overall experience working in the company?
+- Excellent
+- Good
+- Fair
+- Poor
+
+6) How satisfied are you with the opportunities for professional development and growth provided by the company?
+
+- Very Dissatisfied
+- Dissatisfied
+- Neutral
+- Satisfied
+- Very Satisfied
+
+7) Have you considered leaving the company in the past 6 months?
+
+- Yes
+- No
+
+8) What changes or improvements do you think could be made to enhance employee satisfaction and reduce turnover within the company? (Select all that apply)
+
+- Increase salary and benefits
+- Provide more opportunities for career advancement
+- Improve work-life balance initiatives
+- Enhance training and professional development programs
+- Foster a more inclusive and supportive workplace culture
+
+9) If you have considered leaving, what were the primary reasons for this consideration? (Check all that apply)
+
+- Better job opportunities elsewhere
+- Dissatisfaction with current role
+- Issues with management
+- Compensation and benefits
+- Work-life balance concerns
+- Other (please specify)
+
+10) Are there any additional comments or feedback you would like to provide regarding your experience working at our company?
+   
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+The purpose of the survey could potentially be fulfilled through an observational study, but it would have limitations compared to a survey. We could observe and document turnover rates, employee behaviors, and organizational practices without directly intervening or asking employees for their perceptions and opinions. And while such a study could complement a survey by providing objective data on turnover rates and observable behaviors, a survey is more essential for HR to understand the subjective experiences and perceptions of employees, which are critical for designing effective retention strategies and improving overall employee satisfaction.
+
     ```
 
 ## Why am I doing this assignment?
